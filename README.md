@@ -1,2 +1,0 @@
-# AlgorithmJava
-Algorithm in Java
